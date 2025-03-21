@@ -1,2 +1,2 @@
-# codeaway-binaries
-Install codeaway locally
+# CodeAway Binaries
+Binary releases for the CodeAway CLI tool.
